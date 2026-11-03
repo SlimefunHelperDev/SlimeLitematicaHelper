@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "slimefunhelper_litematica_helper",
+  "version": "${version}",
+  "name": "SlimefunHelper Litematica Helper",
+  "description": "Litematica integration modules for SlimefunHelper.",
+  "authors": [
+    "matl114"
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "slimefunhelper": [
+      "me.matl114.litematicahelper.LitematicaHelperPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*",
+    "slimefunhelper": "*",
+    "litematica": "*"
+  }
+}

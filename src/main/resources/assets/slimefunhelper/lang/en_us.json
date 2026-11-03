@@ -1,0 +1,7 @@
+{
+  "litematica-helper.enable": "Enable LitematicaHelper",
+  "litematica-helper.replace-hotkey": "Smart replace key (hold)",
+  "litematica-helper.replace.success": "已批量替换投影区域中的匹配方块",
+  "litematica-helper.replace.failed": "投影批量替换失败，请检查 Litematica 兼容性",
+  "config.index.litematica-helper": "Litematica Helper"
+}
