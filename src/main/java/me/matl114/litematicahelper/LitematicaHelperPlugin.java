@@ -8,7 +8,7 @@ import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.ModContainer;
 
 public final class LitematicaHelperPlugin implements SlimefunHelperPlugin {
-    public static final String MOD_ID = "slimefunhelper_litematica_helper";
+    public static final String MOD_ID = "litematica_helper";
 
     @Override
     public void onConfigBootstrap() {}

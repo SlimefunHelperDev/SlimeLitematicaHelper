@@ -1,7 +1,17 @@
 {
-  "litematica-helper.enable": "Enable LitematicaHelper",
-  "litematica-helper.replace-hotkey": "Smart replace key (hold)",
+  "litematica-helper.schematic-modification.enable": "投影修改",
+  "litematica-helper.schematic-modification.hotkey": "投影修改开关快捷键",
+  "litematica-helper.schematic-modification.replace-hotkey": "投影方块智能替换快捷键（按住）",
   "litematica-helper.replace.success": "已批量替换投影区域中的匹配方块",
-  "litematica-helper.replace.failed": "投影批量替换失败，请检查 Litematica 兼容性",
-  "config.index.litematica-helper": "Litematica Helper"
+  "litematica-helper.replace.failed": "投影区域批量替换失败，请检查 Litematica 兼容性",
+  "litematica-helper.container-fill.enable": "容器填充",
+  "litematica-helper.container-fill.hotkey": "容器填充开关快捷键",
+  "litematica-helper.container-fill.save-template-hotkey": "保存容器模板快捷键",
+  "litematica-helper.container-fill.auto-close": "填充成功后自动关闭容器",
+  "litematica-helper.container-fill.ignore-amount": "忽略模板物品数量",
+  "litematica-helper.container-fill.template-saved": "容器模板已保存",
+  "config.index.litematica-helper": "投影助手",
+  "config.index.litematica-helper.schematic-modification": "投影修改",
+  "config.index.litematica-helper.container-fill": "容器填充",
+  "widget.click-gui.module-name.Survival.LitematicaHelper": "投影助手"
 }
